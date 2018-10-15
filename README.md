@@ -30,6 +30,7 @@ Here is more information on [running and deploying](https://www.tornadoweb.org/e
 * [JT Singhal](https://github.com/JTSinghal)
 * [Rick Kase](https://github.com/kaseDev)
 * [Youngsik Yoon](https://github.com/JeroSik)
+
 See also the list of [contributors](https://github.com/JeroSik/GeoTrash/graphs/contributors) who participated in this project.
 
 ## License
