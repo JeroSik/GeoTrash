@@ -1,5 +1,5 @@
 # GeoTrash
-A community-driven web application tool that collects different recycle bin location points. During EcoMake 2018 Purdue, a weekend-long engineering design competition centered on sustainability, our team decided to focus on creating an convenient way to recycle. See also the [presentation](https://docs.google.com/presentation/d/1WXI5iPwDKlXD41j7sttsrGVgGEepeZANfk_znRWAIQw/edit?usp=sharing) for this project.
+A community-driven web application tool that collects different recycle bin location points. During EcoMake 2018 Purdue, a weekend-long engineering design competition centered on sustainability, our team decided to focus on creating a convenient way to recycle. See also the [presentation](https://docs.google.com/presentation/d/1WXI5iPwDKlXD41j7sttsrGVgGEepeZANfk_znRWAIQw/edit?usp=sharing) for this project.
 
 ## Getting Started
 
